@@ -1,7 +1,7 @@
 <h1>Operating System</h1>
 
 <h2>Description</h2>
-<p>This repository contains the implementation of concept in Operating System course in Python.</p>
+<p>This repository contains the implementation of concept in Operating System course using C, C++ and Python.</p>
 
 <h3>Topics</h3>
 
