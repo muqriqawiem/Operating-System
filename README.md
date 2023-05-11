@@ -8,7 +8,7 @@
 <h4>CPU Scheduling Algorithms</h4>
 <ul>
     <li><a href="https://github.com/muqriqawiem/Operating-System/tree/main/src/First-Come-First-Serve">First Come First Serve</a></li>
-    <li><a href="#">Shortest Job First</a></li>
+    <li><a href="https://github.com/muqriqawiem/Operating-System/tree/main/src/Shortest-Job-First">Shortest Job First</a></li>
 </ul>
 
 <h4>File Allocation Strategies</h4>
