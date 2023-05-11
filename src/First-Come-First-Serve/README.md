@@ -21,8 +21,8 @@
     <li>
         For `i` in range(`num`):
         <ul>
-            <li>Read `burst_time` from the user</li>
-            <li>Append `burst_time` to the `burst` list</li>
+            <ol>Read `burst_time` from the user</ol>
+            <ol>Append `burst_time` to the `burst` list</ol>
         </ul>
     </li>
     <li></li>
