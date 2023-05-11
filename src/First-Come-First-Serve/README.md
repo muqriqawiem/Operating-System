@@ -13,12 +13,28 @@
     <li>Processes are executed in the order of their arrival, forming a queue.</li>
 </ul>
 
-<h2>Process Execution</h2>
-<ul>
-    <li>The CPU executes the process at the front of the queue.</li>
-    <li>Once a process completes its execution, the next process in the queue is selected and executed.</li>
-    <li>This continues until all processes have been executed.</li>
-</ul>
+<h2>Pseudocode</h2>
+<ol>
+    <li>Read `num` as the number of processes</li>
+    <li>Initialize empty lists `burst`, `wait`, and `turn`</li>
+    <li>Initialize `total_wait` and `total_turn` to 0</li>
+    <li>
+        For `i` in range(`num`):
+        <ul>
+            <li>Read `burst_time` from the user</li>
+            <li>Append `burst_time` to the `burst` list</li>
+        </ul>
+    </li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ol>
 
 <h2>Metrics</h2>
 <ul>
