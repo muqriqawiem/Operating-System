@@ -20,10 +20,10 @@
     <li>Initialize `total_wait` and `total_turn` to 0</li>
     <li>
         For `i` in range(`num`):
-        <ul>
-            <ol>Read `burst_time` from the user</ol>
-            <ol>Append `burst_time` to the `burst` list</ol>
-        </ul>
+        <ol>
+            <li>Read `burst_time` from the user</li>
+            <li>Append `burst_time` to the `burst` list</li>
+        </ol>
     </li>
     <li></li>
     <li></li>
