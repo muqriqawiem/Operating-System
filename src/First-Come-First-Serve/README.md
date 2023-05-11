@@ -25,15 +25,34 @@
             <li>Append `burst_time` to the `burst` list</li>
         </ol>
     </li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Append 0 to the `wait` list</li>
+    <li>
+        For `j` in range(1, `num`):
+        <ol>
+            <li>Calculate `wait_time` as `burst[j-1] + wait[j-1]`</li>
+            <li>Append `wait_time` to the `wait` list</li>
+        </ol>
+    </li>
+    <li>
+        For `k` in range(`num`):
+        <ol>
+            <li>Calculate `turn_time` as `burst[k] + wait[k]`</li>
+            <li>Append `turn_time` to the `turn` list</li>
+        </ol>
+    </li>
+    <li>Print "Processes   Burst time   Waiting time   Turn around time" for table header</li>
+    <li>
+        For `i` in range(`num`):
+        <ol>
+            <li>Add `wait[i]` to `total_wait`</li>
+            <li>Add `turn[i]` to `total_turn`</li>
+            <li>Print process number (`i+1`), `burst[i]`, `wait[i]`, and `turn[i]` in a formatted table row</li>
+        </ol>
+    </li>
+    <li>Calculate `average_wait` as `total_wait` divided by `num`</li>
+    <li>Calculate `average_turn` as `total_turn` divided by `num`</li>
+    <li>Print "Average waiting time = " concatenated with `average_wait` formatted to 3 decimal places</li>
+    <li>Print "Average turn around time = " concatenated with `average_turn` formatted to 3 decimal places</li>
 </ol>
 
 <h2>Metrics</h2>
