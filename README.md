@@ -7,7 +7,7 @@
 
 <h4>CPU Scheduling Algorithms</h4>
 <ul>
-    <li><a href="https://github.com/muqriqawiem/Operating-System/tree/main/src/First-Come-First-Serve" target="_blank">First Come First Serve<a><li>
+    <li><a href="https://github.com/muqriqawiem/Operating-System/tree/main/src/First-Come-First-Serve" target="_blank">First Come First Serve</a><li>
     <li><a href="#" target="_blank">Shortest Job First</a></li>
 </ul>
 
