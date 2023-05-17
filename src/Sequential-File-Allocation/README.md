@@ -58,7 +58,9 @@
 </ol>    
 
 <h2>Example Output</h2>
-```python
+```
+    $ python sequential_file_allocation.py
+
     Please enter the starting block and length of the file you want to allocate.
     The blocks are numbered from 0 to 49.
     If a block is already allocated, you will be prompted to enter a new file.
@@ -90,3 +92,8 @@
 
     See you again.
 ```
+
+
+function test() {
+  console.log("notice the blank line before this function?");
+}
