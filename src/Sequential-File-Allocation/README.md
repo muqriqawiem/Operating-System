@@ -91,9 +91,3 @@
     Do you want to enter more files? ( 1 for YES, 0 for NO ): 0
 
     See you again.
-```
-
-
-function test() {
-  console.log("notice the blank line before this function?");
-}
