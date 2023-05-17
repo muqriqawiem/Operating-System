@@ -56,3 +56,39 @@
         </ul>
     </li>
 </ol>    
+
+<h2>Example Output</h2>
+<code>
+    $ python sequential_file_allocation.py
+
+    Please enter the starting block and length of the file you want to allocate.
+    The blocks are numbered from 0 to 49.
+    If a block is already allocated, you will be prompted to enter a new file.
+    To exit the program, enter 0 when prompted to enter more files.
+
+    Enter the starting block and length ( separated by a SPACE ): 0 5
+    Block 0 allocated.
+    Block 1 allocated.
+    Block 2 allocated.
+    Block 3 allocated.
+    Block 4 allocated.
+    Block 5 allocated.
+    The file is allocated to disk.
+
+    Do you want to enter more files? ( 1 for YES, 0 for NO ): 1
+
+    Please enter the starting block and length of the file you want to allocate.
+    The blocks are numbered from 0 to 49.
+    If a block is already allocated, you will be prompted to enter a new file.
+    To exit the program, enter 0 when prompted to enter more files.
+
+    Enter the starting block and length ( separated by a SPACE ): 10 3
+    Block 10 allocated.
+    Block 11 allocated.
+    Block 12 allocated.
+    The file is allocated to disk.
+
+    Do you want to enter more files? ( 1 for YES, 0 for NO ): 0
+
+    See you again.
+</code>
