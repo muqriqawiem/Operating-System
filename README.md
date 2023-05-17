@@ -13,7 +13,7 @@
 
 <h4>File Allocation Strategies</h4>
 <ul>
-    <li><a href="#">Sequential File Allocation</a></li>
+    <li><a href="https://github.com/muqriqawiem/Operating-System/tree/main/src/Sequential-File-Allocation">Sequential File Allocation</a></li>
 </ul>
 
 <h4>Memory Management Technique</h4>
