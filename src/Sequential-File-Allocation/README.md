@@ -58,7 +58,7 @@
 </ol>    
 
 <h2>Example Output</h2>
-<code>
+```
     $ python sequential_file_allocation.py
 
     Please enter the starting block and length of the file you want to allocate.
@@ -91,4 +91,4 @@
     Do you want to enter more files? ( 1 for YES, 0 for NO ): 0
 
     See you again.
-</code>
+```
