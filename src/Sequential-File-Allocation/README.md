@@ -26,9 +26,33 @@
                             <li>Print a message indicating that the block has been allocated.</li>
                         </ul>
                     </li>
+                    <li>
+                        Otherwise:
+                        <ul>
+                            <li>Print an error message and ask the user to enter a new starting block.</li>
+                        </ul>
+                    </li>
                 </ul>
-                <li></li>
             </li>
+            <li>
+                If the user enters a length of 0:
+                <ul>
+                    <li>Print a message indicating that the file has been allocated to disk.</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>Ask the user if they want to enter more files.</li>
+    <li>
+        If the user enters 1:
+        <ul>
+            <li>Repeat the above steps.</li>
+        </ul>
+    </li>
+    <li>
+        Otherwise:
+        <ul>
+            <li>Exit the program</li>
         </ul>
     </li>
 </ol>    
