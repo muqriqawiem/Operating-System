@@ -58,7 +58,7 @@
 </ol>    
 
 <h2>Example Output</h2>
-```
+```python
     $ python sequential_file_allocation.py
 
     Please enter the starting block and length of the file you want to allocate.
