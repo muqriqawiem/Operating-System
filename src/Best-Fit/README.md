@@ -55,60 +55,60 @@
 
 <h2>Example Output</h2>
 ```
-$ python best_fit_memory_allocation.py
+    $ python best_fit_memory_allocation.py
 
-Enter the number of blocks: 10
+    Enter the number of blocks: 10
 
-Enter the size of block 1: 10
+    Enter the size of block 1: 10
 
-Enter the size of block 2: 15
+    Enter the size of block 2: 15
 
-Enter the size of block 3: 12
+    Enter the size of block 3: 12
 
-Enter the size of block 4: 13
+    Enter the size of block 4: 13
 
-Enter the size of block 5: 14
+    Enter the size of block 5: 14
 
-Enter the size of block 6: 15
+    Enter the size of block 6: 15
 
-Enter the size of block 7: 10
+    Enter the size of block 7: 10
 
-Enter the size of block 8: 11
+    Enter the size of block 8: 11
 
-Enter the size of block 9: 12
+    Enter the size of block 9: 12
 
-Enter the size of block 10: 13
+    Enter the size of block 10: 13
 
-Enter the number of processes: 5
+    Enter the number of processes: 5
 
-Enter the size of process 1: 10
+    Enter the size of process 1: 10
 
-Block 0 allocated.
-Block 1 allocated.
-Block 2 allocated.
-Block 3 allocated.
-Block 4 allocated.
+    Block 0 allocated.
+    Block 1 allocated.
+    Block 2 allocated.
+    Block 3 allocated.
+    Block 4 allocated.
 
-Enter the size of process 2: 15
+    Enter the size of process 2: 15
 
-Block 5 allocated.
-Block 6 allocated.
-Block 7 allocated.
-Block 8 allocated.
+    Block 5 allocated.
+    Block 6 allocated.
+    Block 7 allocated.
+    Block 8 allocated.
 
-Enter the size of process 3: 12
+    Enter the size of process 3: 12
 
-Block 9 allocated.
-Block 10 allocated.
+    Block 9 allocated.
+    Block 10 allocated.
 
-Enter the size of process 4: 13
+    Enter the size of process 4: 13
 
-The process size is too large. Please enter a smaller process size.
+    The process size is too large. Please enter a smaller process size.
 
-Enter the size of process 5: 0
+    Enter the size of process 5: 0
 
-All processes have been allocated to memory.
+    All processes have been allocated to memory.
 
-Do you want to enter more processes? ( 1 for YES, 0 for NO ): 0
+    Do you want to enter more processes? ( 1 for YES, 0 for NO ): 0
 
-See you again.
+    See you again.
