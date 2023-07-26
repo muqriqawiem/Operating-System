@@ -19,7 +19,7 @@
 <h4>Memory Management Technique</h4>
 <ul>
     <li><a href="https://github.com/muqriqawiem/Operating-System/tree/main/src/Best-Fit">Best Fit</a></li>
-    <li><a href="#">First Fit</a></li>
+    <li><a href="https://github.com/muqriqawiem/Operating-System/tree/main/src/First-Fit">First Fit</a></li>
     <li><a href="#">Paging Technique</a></li>
 </ul>
 
