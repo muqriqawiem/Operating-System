@@ -25,7 +25,7 @@
 
 <h4>Deadlock Management</h4>
 <ul>
-    <li><a href="#">Bankers Algorithm</a></li>
+    <li><a href="https://github.com/muqriqawiem/Operating-System/tree/main/src/Banker's-Algorithm">Bankers Algorithm</a></li>
 </ul>
 
 <h4>Page Replacement Algorithm</h4>
