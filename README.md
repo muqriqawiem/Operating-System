@@ -20,7 +20,7 @@
 <ul>
     <li><a href="https://github.com/muqriqawiem/Operating-System/tree/main/src/Best-Fit">Best Fit</a></li>
     <li><a href="https://github.com/muqriqawiem/Operating-System/tree/main/src/First-Fit">First Fit</a></li>
-    <li><a href="#">Paging Technique</a></li>
+    <li><a href="https://github.com/muqriqawiem/Operating-System/tree/main/src/Pages-Memory-Allocation">Paging Technique</a></li>
 </ul>
 
 <h4>Deadlock Management</h4>
