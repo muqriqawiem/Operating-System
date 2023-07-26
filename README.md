@@ -30,7 +30,7 @@
 
 <h4>Page Replacement Algorithm</h4>
 <ul>
-    <li><a href="#">First In First Out</a></li>
+    <li><a href="https://github.com/muqriqawiem/Operating-System/tree/main/src/First-In-First-Out">First In First Out</a></li>
 </ul>
 
 <h4>Synchronization</h4>
